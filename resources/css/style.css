@@ -1,0 +1,19 @@
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: white;
+    background-color: black;
+}
+
+.center {
+    text-align: center;
+}
+
+#session1 .title{
+    font-size: 3.125rem;
+    font-weight: normal;
+}
+
+#session1 a{
+    color: aquamarine;
+}
