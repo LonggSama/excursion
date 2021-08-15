@@ -14,6 +14,27 @@ html{
     font-weight: normal;
 }
 
-#session1 a{
+a{
     color: aquamarine;
+}
+
+#session2 p{
+    color: gray;
+    font-size: 1.3125rem;
+}
+
+#session2 .title{
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+#session3 .title{
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+#footer p{
+    color: gray;
+    font-size: 1.3125rem;
+    text-align: right;
 }
